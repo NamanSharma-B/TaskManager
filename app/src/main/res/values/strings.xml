@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="no_date_selected">No date selected</string>
+    <string name="add_task">Add Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="title_required">Title is required</string>
+    <string name="task_saved">Task saved successfully</string>
+    <string name="task_deleted">Task deleted</string>
+    <string name="task_completed">Task completed!</string>
+    <string name="task_active">Task marked as active</string>
+    <string name="no_tasks">No tasks yet!\nTap + to add your first task.</string>
+    <string name="completed_tasks_cleared">All completed tasks deleted</string>
+    <string name="priority">Priority</string>
+    <string name="low">Low</string>
+    <string name="medium">Medium</string>
+    <string name="high">High</string>
+    <string name="due_date">Due Date</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="save_task">Save Task</string>
+    <string name="clear">Clear</string>
+    <string name="task_title">Task Title *</string>
+    <string name="description_optional">Description (optional)</string>
+    <string name="delete_completed">Delete Completed</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
+    <string name="description">Description</string>
+    <string name="medium_capital">MEDIUM</string>
+    <string name="task_title_cap">Task Title</string>
+    <string name="_0_active_tasks">0 active tasks</string>
+    <string name="all">All</string>
+    <string name="active">Active</string>
+    <string name="completed">Completed</string>
+    <string name="no_tasks_yet_ntap_to_add_your_first_task">No tasks yet!\nTap + to add your first task.</string>
+    <string name="add_task_val">Add Task</string>
+    <string name="active_tasks">%1$d active task%2$s</string>
+</resources>
